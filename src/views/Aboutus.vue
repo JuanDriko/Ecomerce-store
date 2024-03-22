@@ -9,8 +9,8 @@
                             Somos una tienda virtual.
                         </p>
                     </div>
-                    <div class="col-md-4">
-                        <img src="#" alt="About Hero">
+                    <div class="col-4">
+                        <img src="../assets/img/ropamujer.svg" alt="About Hero">
                     </div>
                 </div>
             </div>
@@ -68,6 +68,9 @@
 </script>
 
 <style scoped>
+img{
+    width: 80%;
+}
 .services-icon-wap:hover {
     background-color: #007bff;
 }
@@ -78,4 +81,6 @@
 .services-icon-wap:hover h1, .services-icon-wap:hover h2 {
     color: #fff; 
 }
+
+
 </style>
